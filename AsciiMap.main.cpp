@@ -1,7 +1,6 @@
 #include "AsciiMap.hpp"
 #include <iostream>
 
-
 void mk_line(AsciiMap &map, unsigned int y)
 {
     auto i{0U};
